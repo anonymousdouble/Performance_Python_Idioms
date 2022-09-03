@@ -1,4 +1,4 @@
-# Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence
+# Performance of Python Idioms
 ## Supplementary Document
 performance_python_idioms_supplementary_document.pdf provides code examples of idiomatic code and non-idiomatic code on synthetic dataset and real-project dataset，the detailed discussions on Stack Overflow about the performance of python idioms, the calculation of the number of code pairs for Python idioms, bytecode instructions of non-idiomatic code and idiomatic code for Python idioms.
 
