@@ -12,4 +12,4 @@ performance_python_idioms_supplementary_document.pdf provides code examples of i
    1. You could set the absolute path of project in the code1/util.py
    2. Performance measurement for synthetic dataset and real-project dataset are in code1/lab_performance/PythonIdiom/get\_\*\_time.py and code1/performance/get\_\*\_time.py
    3. plotting the distribution of performance change of nine Python idioms on two datasets is in the code1/rq1_boxplot.py
-   4. Relationship between features and performance change on synthetic dataset and real-project dataset are in code1/lab_performance/PythonIdiom/analysis\_\*\_features.R and code1/performance/PythonIdiom/analysis\_\*\_features.R 
+   4. Relationship between features and performance change in synthetic dataset and real-project dataset is in code1/lab_performance/PythonIdiom/analysis\_\*\_features.R and code1/performance/PythonIdiom/analysis\_\*\_features.R 
